@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 51,
-    "timeDay": 40,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "time": 53,
+    "timeDay": 58,
+    "timeWeek": 53,
+    "timeMonth": 53,
+    "timeYear": 53,
     "dailyMinutesDown": {
-      "2024-01-10": 42,
+      "2024-01-11": 43,
+      "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 128
     }
