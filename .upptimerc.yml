@@ -7,6 +7,8 @@ sites:
     url: https://bfrportal.nl/
     assignees:
     - deadlykeyboard
+    headers:
+      - "User-Agent: ntdev-technology uptime"
 
 #assignees:
 #  - tommie1236
