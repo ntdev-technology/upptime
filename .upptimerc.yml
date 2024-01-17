@@ -8,7 +8,7 @@ sites:
     assignees:
     - deadlykeyboard
     headers:
-      - "User-Agent: ntdev-technology uptime"
+      - "User-Agent: Mozilla/5.0"
 
 #assignees:
 #  - tommie1236
