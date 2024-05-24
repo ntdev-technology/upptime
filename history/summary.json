@@ -11,12 +11,12 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 68,
-    "timeDay": 65,
-    "timeWeek": 64,
+    "timeDay": 54,
+    "timeWeek": 61,
     "timeMonth": 64,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2024-05-24": 43,
+      "2024-05-24": 1270,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -155,5 +155,23 @@
       "2024-01-09": 1440,
       "2024-01-08": 128
     }
+  },
+  {
+    "name": "PPG",
+    "url": "http://sijpekerk-ppg.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/sijpekerk-ppg.nl.ico",
+    "slug": "ppg",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
+    "dailyMinutesDown": {}
   }
 ]
