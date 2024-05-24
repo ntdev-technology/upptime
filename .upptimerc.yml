@@ -9,6 +9,10 @@ sites:
     - deadlykeyboard
     headers:
       - "User-Agent: Mozilla/5.0"
+  - name: PPG
+    url: http://sijpekerk-ppg.nl
+    assignees:
+    - deadlykeyboard
 
 #assignees:
 #  - tommie1236
